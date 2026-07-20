@@ -4,11 +4,11 @@
 
 ### Software Engineer | Full Stack Developer
 
-Building scalable web applications, AI-powered solutions, and solving real-world problems through clean, efficient software.
+A modern, responsive portfolio showcasing my projects, technical skills, achievements, and software engineering journey.
 
 <p>
-  <a href="https://bandi-shivani-portfolio-suz2.vercel.app">
-    <img src="https://img.shields.io/badge/🌍%20Live%20Portfolio-Visit-blue?style=for-the-badge" />
+  <a href="https://bandi-shivani-portfolio-tq9e.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Website-2563EB?style=for-the-badge" />
   </a>
   <a href="https://github.com/ShivaniReddy7733">
     <img src="https://img.shields.io/badge/GitHub-ShivaniReddy7733-181717?style=for-the-badge&logo=github" />
@@ -22,65 +22,44 @@ Building scalable web applications, AI-powered solutions, and solving real-world
 
 ---
 
+## 🚀 Live Demo
+
+**Portfolio:**  
+👉 **https://bandi-shivani-portfolio-tq9e.vercel.app**
+
+---
+
 ## 👋 About
 
-Welcome to my personal portfolio repository.
+Hi! I'm **Bandi Shivani**, a final-year **Computer Science & Engineering** student at **MNNIT Allahabad**.
 
-I'm **Bandi Shivani**, a final-year **Computer Science & Engineering** student at **Motilal Nehru National Institute of Technology (MNNIT) Allahabad** with a passion for Full Stack Development, AI-powered applications, and software engineering.
+I enjoy building scalable web applications, AI-powered solutions, and continuously improving my software engineering skills through hands-on projects and problem solving.
 
-This portfolio showcases my projects, technical skills, education, achievements, and professional journey.
+This repository contains the source code for my personal portfolio website.
 
 ---
 
 ## ✨ Features
 
-- 👩 Professional Introduction
-- 💼 Featured Projects
-- 🛠 Technical Skills
-- 🎓 Education
-- 📄 Resume Download
-- 📬 Contact Section
-- 📱 Fully Responsive Design
-- ⚡ Fast & Optimized Performance
-- 🌙 Modern UI
+- Responsive Design
+- Modern UI/UX
+- Featured Projects
+- Technical Skills
+- Resume Download
+- Contact Section
+- Optimized Performance
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
 | Category | Technologies |
 |-----------|--------------|
-| **Frontend** | React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB, PostgreSQL (Neon) |
-| **Authentication** | JWT, Clerk, Google OAuth |
-| **AI Integration** | Google Gemini API |
-| **Payments** | Stripe |
-| **Deployment** | Vercel |
-| **Version Control** | Git & GitHub |
-
----
-
-## 💼 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| **🍽️ CuisineCraze** | AI-powered restaurant food ordering platform with secure authentication, Stripe payments, invoice generation, and an intelligent chatbot. |
-| **🎤 InterviewAI** | AI-powered mock interview platform that generates interview questions, records responses, and provides personalized feedback using Gemini AI. |
-
----
-
-## 📂 Project Structure
-
-```text
-.
-├── public/
-├── src/
-├── package.json
-├── vite.config.ts
-├── tsconfig.json
-└── README.md
-```
+| Frontend | React, TypeScript, Tailwind CSS |
+| Build Tool | Vite |
+| Routing | TanStack Router |
+| Deployment | Vercel |
+| Version Control | Git & GitHub |
 
 ---
 
@@ -92,7 +71,7 @@ This portfolio showcases my projects, technical skills, education, achievements,
 git clone https://github.com/ShivaniReddy7733/bandi-shivani-portfolio.git
 ```
 
-### Navigate to the project
+### Navigate into the project
 
 ```bash
 cd bandi-shivani-portfolio
@@ -118,46 +97,19 @@ npm run build
 
 ---
 
-## 🌐 Live Demo
-
-**Portfolio Website**
-
-➡️ **https://bandi-shivani-portfolio-suz2.vercel.app**
-
----
-
-## 📊 Project Information
-
-| Property | Value |
-|----------|-------|
-| **Project** | Personal Portfolio |
-| **Framework** | React + TanStack Start |
-| **Language** | TypeScript |
-| **Styling** | Tailwind CSS |
-| **Bundler** | Vite |
-| **Deployment** | Vercel |
-
----
-
-## 📬 Connect With Me
+## 🌐 Connect With Me
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | https://bandi-shivani-portfolio-suz2.vercel.app |
+| 🌍 Portfolio | https://bandi-shivani-portfolio-tq9e.vercel.app |
 | 💼 LinkedIn | https://www.linkedin.com/in/bshivanireddy7733/ |
 | 💻 GitHub | https://github.com/ShivaniReddy7733 |
 
 ---
 
-## ⭐ Support
-
-If you found this project helpful or interesting, consider giving it a ⭐ on GitHub.
-
----
-
 <div align="center">
 
-### Thank you for visiting!
+⭐ If you enjoyed exploring my portfolio, feel free to give this repository a star.
 
 **Designed & Developed by Bandi Shivani**
 
