@@ -65,7 +65,7 @@ export const portfolio = {
   role: "Software Engineer",
   tagline: "Software Engineer | Full Stack Developer",
   intro:
-    "Final-year Computer Science student at MNNIT Allahabad, passionate about building scalable full-stack applications, exploring backend systems, and solving real-world problems through software.",
+    "Computer Science & Engineering graduate from MNNIT Allahabad, passionate about building scalable full-stack applications, exploring AI-powered solutions, and solving real-world problems through software.",
 
   contact: {
     email: "bandishivani2k26@gmail.com",
@@ -87,7 +87,7 @@ export const portfolio = {
   },
 
   about: [
-    "Final-year Computer Science student at MNNIT Allahabad.",
+    "Computer Science & Engineering graduate from MNNIT Allahabad.",
     "Passionate about full stack development with a strong interest in backend systems.",
     "Enjoy building AI-powered applications that solve real problems.",
     "Problem-solving mindset, and always learning modern technologies.",

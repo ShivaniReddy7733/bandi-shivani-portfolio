@@ -21,13 +21,13 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Final-year Computer Science & Engineering student at MNNIT Allahabad passionate about full-stack development, AI-powered applications, and solving real-world so",
+          "Computer Science & Engineering graduate from MNNIT Allahabad, passionate about building scalable full-stack applications, exploring AI-powered solutions, and solving real-world problems through software.",
       },
       { property: "og:title", content: `${portfolio.name} — ${portfolio.role}` },
       {
         property: "og:description",
         content:
-          "Final-year Computer Science & Engineering student at MNNIT Allahabad passionate about full-stack development, AI-powered applications, and solving real-world so",
+          "Computer Science & Engineering graduate from MNNIT Allahabad, passionate about building scalable full-stack applications, exploring AI-powered solutions, and solving real-world problems through software.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },

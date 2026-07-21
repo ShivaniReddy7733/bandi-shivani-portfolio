@@ -31,7 +31,7 @@ A modern, responsive portfolio showcasing my projects, technical skills, achieve
 
 ## 👋 About
 
-Hi! I'm **Bandi Shivani**, a final-year **Computer Science & Engineering** student at **MNNIT Allahabad**.
+Hi! I'm **Bandi Shivani**, a **Computer Science & Engineering graduate from Motilal Nehru National Institute of Technology (MNNIT) Allahabad**.
 
 I enjoy building scalable web applications, AI-powered solutions, and continuously improving my software engineering skills through hands-on projects and problem solving.
 

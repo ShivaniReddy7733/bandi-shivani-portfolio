@@ -76,12 +76,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "Final-year Computer Science & Engineering student at MNNIT Allahabad passionate about full-stack development, AI-powered applications, and solving real-world so",
+          "Computer Science & Engineering graduate from MNNIT Allahabad, passionate about building scalable full-stack applications, exploring AI-powered solutions, and solving real-world problems through software.",
       },
       { property: "og:title", content: "Bandi Shivani | Software Engineer | Full-Stack Developer" },
       { name: "twitter:title", content: "Bandi Shivani | Software Engineer | Full-Stack Developer" },
-      { property: "og:description", content: "Final-year Computer Science & Engineering student at MNNIT Allahabad passionate about full-stack development, AI-powered applications, and solving real-world so" },
-      { name: "twitter:description", content: "Final-year Computer Science & Engineering student at MNNIT Allahabad passionate about full-stack development, AI-powered applications, and solving real-world so" },
+      { property: "og:description", content: "Computer Science & Engineering graduate from MNNIT Allahabad, passionate about building scalable full-stack applications, exploring AI-powered solutions, and solving real-world problems through software." },
+      { name: "twitter:description", content: "Computer Science & Engineering graduate from MNNIT Allahabad, passionate about building scalable full-stack applications, exploring AI-powered solutions, and solving real-world problems through software." },
       { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/0323b9e2-a6fc-45c6-a948-a0f0129cace4" },
       { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/0323b9e2-a6fc-45c6-a948-a0f0129cace4" },
       { name: "twitter:card", content: "summary_large_image" },
